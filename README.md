@@ -1,3 +1,4 @@
+# Please check DIT824-Team1-Report.pdf for informations related to the system.
 # Team01
 ## Team Memebers
 1. George Sarkisian
